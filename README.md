@@ -1,2 +1,3 @@
-# lemon.com
- Your One-Stop Python News Resource
+# Lemon News Network
+
+Your One-Stop Python News Resource
